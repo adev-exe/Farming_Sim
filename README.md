@@ -1,2 +1,2 @@
-"# Farming_Sim" 
-"# AgricultureHackathon" 
+# Farming_Sim
+# AgricultureHackathon
